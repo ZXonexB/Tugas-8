@@ -49,8 +49,9 @@ body {
 
 .container .main {
     margin-top: 3rem;
+    margin-left: 2rem;
     max-width: 600px;
-    margin-right: 5rem;
+    margin-right: 3rem;
     justify-content: center;
     padding: auto;
     margin-bottom: 1.5rem;
@@ -81,7 +82,7 @@ body {
 .btn {
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 10px;
 }
 
 
